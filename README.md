@@ -14,3 +14,7 @@ Proyecto de Desarrollo Web BMX.
 - Freestyle
 - Race
 - Contacto
+
+## Sitio web publicado
+
+https://pideritcoder.github.io/Pre-entrega-6-BMX/
