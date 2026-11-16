@@ -1,0 +1,56 @@
+
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    color: #222222;
+}
+
+/* Barra de navegación */
+.navbar {
+    background-color: #111111;
+}
+
+.navbar-brand,
+.navbar .nav-link {
+    color: #ffffff;
+}
+
+.navbar-brand:hover,
+.navbar .nav-link:hover {
+    color: #4da3ff;
+}
+
+.navbar .nav-link.active {
+    color: #4da3ff;
+}
+
+.navbar-toggler {
+    background-color: #ffffff;
+}
+
+/* Contenido principal */
+main {
+    min-height: 60vh;
+}
+
+h1 {
+    color: #111111;
+    font-weight: 700;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Imágenes */
+main img {
+    width: 100%;
+    height: auto;
+}
+
+/* Pie de página */
+footer {
+    background-color: #111111;
+    color: #ffffff;
+}
